@@ -1,5 +1,4 @@
 # 📘 Práctica 1 – Funciones en Python  
-### Autor: **Pablo Carrillo**
 
 Este proyecto corresponde a la **Práctica 1** de la asignatura de Programación en Python del ciclo **DAM (Desarrollo de Aplicaciones Multiplataforma)**.
 
